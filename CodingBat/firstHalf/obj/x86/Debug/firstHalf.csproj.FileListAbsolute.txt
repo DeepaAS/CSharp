@@ -1,0 +1,5 @@
+/Users/deepa/Documents/Programming/CSharp/CodingBat/firstHalf/bin/Debug/firstHalf.exe
+/Users/deepa/Documents/Programming/CSharp/CodingBat/firstHalf/bin/Debug/firstHalf.pdb
+/Users/deepa/Documents/Programming/CSharp/CodingBat/firstHalf/obj/x86/Debug/firstHalf.csproj.CoreCompileInputs.cache
+/Users/deepa/Documents/Programming/CSharp/CodingBat/firstHalf/obj/x86/Debug/firstHalf.exe
+/Users/deepa/Documents/Programming/CSharp/CodingBat/firstHalf/obj/x86/Debug/firstHalf.pdb

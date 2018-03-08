@@ -1,0 +1,5 @@
+/Users/deepa/Documents/Programming/CSharp/CodingBat/makeOutWord/bin/Debug/makeOutWord.exe
+/Users/deepa/Documents/Programming/CSharp/CodingBat/makeOutWord/bin/Debug/makeOutWord.pdb
+/Users/deepa/Documents/Programming/CSharp/CodingBat/makeOutWord/obj/x86/Debug/makeOutWord.csproj.CoreCompileInputs.cache
+/Users/deepa/Documents/Programming/CSharp/CodingBat/makeOutWord/obj/x86/Debug/makeOutWord.exe
+/Users/deepa/Documents/Programming/CSharp/CodingBat/makeOutWord/obj/x86/Debug/makeOutWord.pdb

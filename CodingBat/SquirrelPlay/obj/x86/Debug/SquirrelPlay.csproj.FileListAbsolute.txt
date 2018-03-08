@@ -1,0 +1,5 @@
+/Users/deepa/Documents/Programming/CSharp/CodingBat/SquirrelPlay/bin/Debug/SquirrelPlay.exe
+/Users/deepa/Documents/Programming/CSharp/CodingBat/SquirrelPlay/bin/Debug/SquirrelPlay.pdb
+/Users/deepa/Documents/Programming/CSharp/CodingBat/SquirrelPlay/obj/x86/Debug/SquirrelPlay.csproj.CoreCompileInputs.cache
+/Users/deepa/Documents/Programming/CSharp/CodingBat/SquirrelPlay/obj/x86/Debug/SquirrelPlay.exe
+/Users/deepa/Documents/Programming/CSharp/CodingBat/SquirrelPlay/obj/x86/Debug/SquirrelPlay.pdb

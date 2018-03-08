@@ -1,0 +1,5 @@
+/Users/deepa/Documents/Programming/CSharp/CodingBat/makeAbba/bin/Debug/makeAbba.exe
+/Users/deepa/Documents/Programming/CSharp/CodingBat/makeAbba/bin/Debug/makeAbba.pdb
+/Users/deepa/Documents/Programming/CSharp/CodingBat/makeAbba/obj/x86/Debug/makeAbba.csproj.CoreCompileInputs.cache
+/Users/deepa/Documents/Programming/CSharp/CodingBat/makeAbba/obj/x86/Debug/makeAbba.exe
+/Users/deepa/Documents/Programming/CSharp/CodingBat/makeAbba/obj/x86/Debug/makeAbba.pdb

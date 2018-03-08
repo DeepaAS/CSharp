@@ -1,0 +1,5 @@
+/Users/deepa/Documents/Programming/CSharp/CodingBat/DateFashion/bin/Debug/DateFashion.exe
+/Users/deepa/Documents/Programming/CSharp/CodingBat/DateFashion/bin/Debug/DateFashion.pdb
+/Users/deepa/Documents/Programming/CSharp/CodingBat/DateFashion/obj/x86/Debug/DateFashion.csproj.CoreCompileInputs.cache
+/Users/deepa/Documents/Programming/CSharp/CodingBat/DateFashion/obj/x86/Debug/DateFashion.exe
+/Users/deepa/Documents/Programming/CSharp/CodingBat/DateFashion/obj/x86/Debug/DateFashion.pdb

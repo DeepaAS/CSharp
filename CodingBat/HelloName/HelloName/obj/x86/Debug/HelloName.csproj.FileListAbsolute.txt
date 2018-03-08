@@ -1,0 +1,5 @@
+/Users/deepa/Documents/Programming/CSharp/CodingBat/HelloName/HelloName/bin/Debug/HelloName.exe
+/Users/deepa/Documents/Programming/CSharp/CodingBat/HelloName/HelloName/bin/Debug/HelloName.pdb
+/Users/deepa/Documents/Programming/CSharp/CodingBat/HelloName/HelloName/obj/x86/Debug/HelloName.csproj.CoreCompileInputs.cache
+/Users/deepa/Documents/Programming/CSharp/CodingBat/HelloName/HelloName/obj/x86/Debug/HelloName.exe
+/Users/deepa/Documents/Programming/CSharp/CodingBat/HelloName/HelloName/obj/x86/Debug/HelloName.pdb
