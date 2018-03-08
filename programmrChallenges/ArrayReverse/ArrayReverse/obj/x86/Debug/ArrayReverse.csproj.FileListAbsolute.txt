@@ -1,0 +1,5 @@
+/Users/deepa/Documents/Programming/CSharp/programmrChallenges/ArrayReverse/ArrayReverse/bin/Debug/ArrayReverse.exe
+/Users/deepa/Documents/Programming/CSharp/programmrChallenges/ArrayReverse/ArrayReverse/bin/Debug/ArrayReverse.pdb
+/Users/deepa/Documents/Programming/CSharp/programmrChallenges/ArrayReverse/ArrayReverse/obj/x86/Debug/ArrayReverse.csproj.CoreCompileInputs.cache
+/Users/deepa/Documents/Programming/CSharp/programmrChallenges/ArrayReverse/ArrayReverse/obj/x86/Debug/ArrayReverse.exe
+/Users/deepa/Documents/Programming/CSharp/programmrChallenges/ArrayReverse/ArrayReverse/obj/x86/Debug/ArrayReverse.pdb
